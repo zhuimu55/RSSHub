@@ -9,10 +9,10 @@ export const route: Route = {
     name: '星球',
     categories: ['social-media'],
     path: '/group/:id/:scope?',
-    example: '/zsxq/group/88855458825252',
+    example: '/zsxq/group/28518418514881',
     parameters: {
-        id: '星球id，从网页端url中获取',
-        scope: '栏目分类，默认为"all"，见下表',
+        id: '28518418514881',
+        scope: 'all',
     },
     maintainers: ['KarasuShin'],
     radar: [
