@@ -25,7 +25,7 @@ export const route: Route = {
             {
                 name: 'ZSXQ_ACCESS_TOKEN',
                 description:
-                    '知识星球访问令牌,获取方式：\n1. 登录知识星球网页版\n2. 打开浏览器开发者工具，切换到 Application 面板\n3. 点击侧边栏中的Storage -> Cookies -> https://wx.zsxq.com\n4. 复制 Cookie 中的 zsxq_access_token 值',
+                    'BFE8B231-5BA2-5E03-CF06-6251C754070C_0471A98E730612EC',
             },
         ],
     },
